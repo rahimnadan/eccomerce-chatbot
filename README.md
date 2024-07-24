@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# eccomerce-chatbot
-=======
-<<<<<<< HEAD
-# eccomerce-chatbot
+
 Eccomerce FAQs Chatbot
 =======
 # E-commerce FAQ Retrieval System🛒
@@ -20,7 +16,7 @@ This project implements an FAQ retrieval system for an e-commerce platform using
 
 1. **Clone the repository:**
 
-    git clone [https://github.com/muhammad-ahsan12/ecommerce-faq-retrieval.git](https://github.com/muhammad-ahsan12/Ecomerse-Chatbot.git)
+    git clone [ https://github.com/rahimnadan/eccomerce-chatbot.git]( https://github.com/rahimnadan/eccomerce-chatbot.git)
     cd ecommerce-faq-retrieval
     ```
 
@@ -74,12 +70,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 This project is licensed under the MIT License.
 
-## Contact
 
-For any inquiries, please contact [muhammadahsanuetm143@gmail.com].
-
----
-
-You can find this project on GitHub [here](https://github.com/muhammad-ahsan12/Ecomerse-Chatbot.git).
->>>>>>> b3dfce3 (initial commit)
->>>>>>> c33cb46 (initial commit)
