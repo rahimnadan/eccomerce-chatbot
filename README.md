@@ -17,14 +17,15 @@ This project implements an FAQ retrieval system for an e-commerce platform using
 1. **Clone the repository:**
 
     git clone [ https://github.com/rahimnadan/eccomerce-chatbot.git]( https://github.com/rahimnadan/eccomerce-chatbot.git)
+   
     cd ecommerce-faq-retrieval
     ```
 
-2. **Install the required packages:**
+3. **Install the required packages:**
 
     pip install -r requirements.txt
 
-3. **Set up the Google API key:**
+4. **Set up the Google API key:**
 
     Replace `YOUR_GOOGLE_API_KEY` with your actual Google API key in the code:
 
