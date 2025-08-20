@@ -15,7 +15,7 @@ This project implements an FAQ retrieval system for an e-commerce platform using
 ## Installation
 
 1. **Clone the repository:**
-
+    ~~~
     git clone [ https://github.com/rahimnadan/eccomerce-chatbot.git]( https://github.com/rahimnadan/eccomerce-chatbot.git)
    
     cd ecommerce-faq-retrieval
